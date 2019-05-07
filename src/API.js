@@ -1,3 +1,3 @@
 module.exports = {
-  base: "https://frontier.mentechmedia.nl/"
+  base: "https://api.frontier.social/api/"
 };

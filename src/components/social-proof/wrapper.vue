@@ -23,7 +23,7 @@
                 axios.get(api.base + 'events/client/unseen').then((response) => {
                     this.events = response.data;
                 });
-            }, 10000);
+            }, 1000);
         }
     }
 </script>
